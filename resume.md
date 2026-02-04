@@ -5,9 +5,9 @@ title: Resume
 
 # Andrew Niemann
 
-**Senior Infrastructure Leader | DevSecOps | Site Reliability Engineering**
+**Senior Infrastructure Leader · DevSecOps · Site Reliability Engineering**
 
-[LinkedIn](https://linkedin.com/in/niemannandrew)
+<a href="https://linkedin.com/in/niemannandrew" target="_blank">LinkedIn</a>
 
 ---
 
@@ -114,4 +114,4 @@ Strategic Senior Infrastructure Leader and SRE with 20+ years of expertise in bu
 
 ---
 
-<small>This resume is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).</small>
+<small>This resume is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>.</small>
