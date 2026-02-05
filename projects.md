@@ -1,16 +1,19 @@
 ---
 layout: default
 title: Projects
+description: Open source contributions and side projects by Andrew Niemann.
 ---
 
-# Projects
+<header class="header-card">
+  <h1>Projects</h1>
+  <p class="subtitle">A showcase of my work and side projects</p>
+</header>
 
-A showcase of my work and side projects.
+<section class="section-card">
+  <h2>Featured Projects</h2>
+  <p class="coming-soon">Coming soon — check back for updates on open source contributions and personal projects.</p>
+</section>
 
-## Featured Projects
-
-*Coming soon*
-
----
-
-[← Back to Home](index.html)
+<div class="footer-links">
+  <a href="index.html">&larr; Back to Home</a>
+</div>
