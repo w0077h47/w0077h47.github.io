@@ -3,11 +3,14 @@ layout: default
 title: Resume
 ---
 
-<header class="header-card">
-  <h1>Andrew Niemann</h1>
-  <p class="tagline">Senior Infrastructure Leader · DevSecOps · Site Reliability Engineering</p>
-  <div class="contact-links">
-    <a href="https://linkedin.com/in/niemannandrew" target="_blank">LinkedIn</a>
+<header class="header-card with-photo">
+  <img src="assets/images/andrew.jpeg" alt="Andrew Niemann" class="profile-photo">
+  <div class="header-content">
+    <h1>Andrew Niemann</h1>
+    <p class="tagline">Senior Infrastructure Leader · DevSecOps · Site Reliability Engineering</p>
+    <div class="contact-links">
+      <a href="https://linkedin.com/in/niemannandrew" target="_blank">LinkedIn</a>
+    </div>
   </div>
 </header>
 

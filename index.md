@@ -3,13 +3,15 @@ layout: default
 title: Home
 ---
 
-<header class="header-card">
+<header class="header-card with-photo">
   <img src="assets/images/andrew.jpeg" alt="Andrew Niemann" class="profile-photo">
-  <h1>Andrew Niemann</h1>
-  <p class="subtitle">Infrastructure Leader &middot; DevSecOps &middot; SRE</p>
-  <div class="contact-links">
-    <a href="https://github.com/w0077h47" target="_blank">GitHub</a>
-    <a href="https://linkedin.com/in/niemannandrew" target="_blank">LinkedIn</a>
+  <div class="header-content">
+    <h1>Andrew Niemann</h1>
+    <p class="subtitle">Infrastructure Leader &middot; DevSecOps &middot; SRE</p>
+    <div class="contact-links">
+      <a href="https://github.com/w0077h47" target="_blank">GitHub</a>
+      <a href="https://linkedin.com/in/niemannandrew" target="_blank">LinkedIn</a>
+    </div>
   </div>
 </header>
 
