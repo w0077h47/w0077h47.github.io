@@ -9,8 +9,8 @@ title: Home
     <h1>Andrew Niemann</h1>
     <p class="subtitle">Infrastructure Leader &middot; DevSecOps &middot; SRE</p>
     <div class="contact-links">
-      <a href="https://github.com/w0077h47" target="_blank">GitHub</a>
-      <a href="https://linkedin.com/in/niemannandrew" target="_blank">LinkedIn</a>
+      <a href="https://github.com/w0077h47" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a href="https://linkedin.com/in/niemannandrew" target="_blank" rel="noopener noreferrer">LinkedIn</a>
     </div>
   </div>
 </header>
@@ -53,9 +53,6 @@ title: Home
 
 <footer class="site-footer">
   <a href="https://github.com/anthropics/claude-code" target="_blank" rel="noopener noreferrer" class="built-with">
-    <svg class="claude-logo" viewBox="0 0 46 32" fill="currentColor" aria-hidden="true">
-      <path d="M28.826 1.992c-4.478 0-8.032 3.163-9.885 7.49-1.853-4.34-5.42-7.49-9.884-7.49C4.024 1.992 0 7.86 0 15.268c0 6.663 3.098 12.068 7.913 14.506.38.19.775.35 1.178.488 1.053.35 2.183.54 3.36.54h.013c4.464 0 8.018-3.15 9.871-7.477 1.853 4.327 5.42 7.477 9.884 7.477h.013c1.178 0 2.307-.19 3.36-.54.404-.137.798-.297 1.179-.488C41.585 27.336 44.683 21.93 44.683 15.268c0-7.408-4.024-13.276-9.057-13.276h-6.8z"/>
-    </svg>
     Built with Claude Code
   </a>
 </footer>

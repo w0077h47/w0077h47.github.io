@@ -9,8 +9,8 @@ title: Resume
     <h1>Andrew Niemann</h1>
     <p class="tagline">Senior Infrastructure Leader · DevSecOps · Site Reliability Engineering</p>
     <div class="contact-links">
-      <a href="https://github.com/w0077h47" target="_blank">GitHub</a>
-      <a href="https://linkedin.com/in/niemannandrew" target="_blank">LinkedIn</a>
+      <a href="https://github.com/w0077h47" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a href="https://linkedin.com/in/niemannandrew" target="_blank" rel="noopener noreferrer">LinkedIn</a>
     </div>
   </div>
 </header>
@@ -220,4 +220,4 @@ title: Resume
   <a href="index.html">&larr; Back to Home</a>
 </div>
 
-<p class="license">This resume is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>.</p>
+<p class="license">This resume is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>.</p>
