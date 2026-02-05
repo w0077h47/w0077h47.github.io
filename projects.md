@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects
+description: Open source contributions and side projects by Andrew Niemann.
 ---
 
 <header class="header-card">

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resume
+description: Professional resume of Andrew Niemann - 20+ years in infrastructure, DevSecOps, and SRE. Experience at Uniswap, Slingshot Aerospace, Griid, Viasat, and more.
 ---
 
 <header class="header-card with-photo">

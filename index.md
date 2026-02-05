@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+description: Andrew Niemann - Senior Infrastructure Leader specializing in DevSecOps, SRE, and cloud cost optimization with 20+ years of experience.
 ---
 
 <header class="header-card with-photo">

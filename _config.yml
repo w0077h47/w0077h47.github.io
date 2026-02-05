@@ -1,3 +1,28 @@
-title: Andrew Niemann's Site
-description: Personal website and portfolio
+title: Andrew Niemann
+description: Senior Infrastructure Leader specializing in DevSecOps, SRE, and cloud cost optimization. 20+ years building and scaling distributed systems.
+url: https://w0077h47.github.io
+author: Andrew Niemann
+
+# Theme (used for fallback, custom layouts override)
 theme: minima
+
+# SEO and social
+twitter:
+  card: summary
+social:
+  name: Andrew Niemann
+  links:
+    - https://github.com/w0077h47
+    - https://linkedin.com/in/niemannandrew
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Default page settings
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/andrew.jpeg
