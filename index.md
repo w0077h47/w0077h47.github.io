@@ -4,6 +4,7 @@ title: Home
 ---
 
 <header class="header-card">
+  <img src="assets/images/andrew.jpeg" alt="Andrew Niemann" class="profile-photo">
   <h1>Andrew Niemann</h1>
   <p class="subtitle">Infrastructure Leader &middot; DevSecOps &middot; SRE</p>
   <div class="contact-links">
