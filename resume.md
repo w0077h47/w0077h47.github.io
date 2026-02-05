@@ -9,6 +9,7 @@ title: Resume
     <h1>Andrew Niemann</h1>
     <p class="tagline">Senior Infrastructure Leader · DevSecOps · Site Reliability Engineering</p>
     <div class="contact-links">
+      <a href="https://github.com/w0077h47" target="_blank">GitHub</a>
       <a href="https://linkedin.com/in/niemannandrew" target="_blank">LinkedIn</a>
     </div>
   </div>

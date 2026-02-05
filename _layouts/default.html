@@ -528,6 +528,50 @@
       font-style: italic;
     }
 
+    /* Site Footer */
+    .site-footer {
+      text-align: center;
+      padding: 2rem 0;
+      margin-top: 1rem;
+    }
+
+    .built-with {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.6rem 1.2rem;
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 9999px;
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+      font-weight: 500;
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+
+    .built-with:hover {
+      border-color: #d97706;
+      color: #d97706;
+      box-shadow: var(--shadow-sm);
+      text-decoration: none;
+    }
+
+    [data-theme="dark"] .built-with:hover {
+      border-color: #fbbf24;
+      color: #fbbf24;
+    }
+
+    .claude-logo {
+      width: 18px;
+      height: 18px;
+      color: #d97706;
+    }
+
+    [data-theme="dark"] .claude-logo {
+      color: #fbbf24;
+    }
+
     /* Responsive */
     @media (max-width: 640px) {
       body {
